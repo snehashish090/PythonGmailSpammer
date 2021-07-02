@@ -6,12 +6,18 @@ But to use this you would need a google account with credentials and less secure
 ## Installation
 Installation for windows and  mac/linux are different
 
-### for WIndows
+### For WIndows
 For Windows, pls visit https://snehashish090.github.io/PythonGmailSpammer and download the exe\
 Windows might tell you its a virus but it is not so just click on more info and then click on run anyways
 
-### for Mac and Linux
-Please download the zip file of the source code and extract. Open your terminal in this directory and run the following command
+### For Mac and Linux
+Please download the zip file of the source code and extract it anywhere you want
+
+## How to use it
+### For windows: 
+please click on the installer exe downloaded and install the tool. then launch the application and you will be good to go
+### For Mac and Linux
+Change into the extraced folder and then open your terminal here. After that run the following command
 ```console
 root@computer:~$ python3 app.py
 ```
